@@ -149,11 +149,11 @@ project/
 
 ## Contact and Metadata
 
-**Analysis Date**: February 2026  
-**Analyst**: [Your Name]  
-**Institution**: [Your Institution]  
-**Software**: R version 4.3+ with tidyverse ecosystem  
-**Last Updated**: `r Sys.Date()`
+**Analysis Date: Spring 2021
+**Analyst: Adashi Odama
+**Institution: Washington University in St. Louis  
+**Software: R version 4.3+ with tidyverse ecosystem  
+**Last Updated: `r Sys.Date()`
 
 ---
 
