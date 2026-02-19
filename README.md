@@ -116,7 +116,5 @@ This project showcases analytical skills in:
 Perfect for roles in clinical data science, healthcare analytics, pharmaceutical research, medical device development, and regulatory affairs.
 
 ---
-**Author**: [Your Name]  
-**Contact**: [Your Email]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Date**: February 2026
+**Author: Adashi Odama  
+**Contact odamaadashi@gmail.com  
